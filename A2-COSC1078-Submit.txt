@@ -1,0 +1,5 @@
+Website:
+https://olcier.github.io/COSC1078-A2/
+
+Repo:
+https://github.com/Olcier/COSC1078-A2
