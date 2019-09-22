@@ -1,9 +1,4 @@
 /* Feel free to style me! */
-
-html{
-
-}
-
 body{
   background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/information-technology-background-vector-9.jpg");
   background-size: 100%;
@@ -12,6 +7,11 @@ body{
 }
 
 h1{
+  text-align: center;
+}
+
+h2{
+  margin-left: 15px;
   text-align: center;
 }
 
@@ -25,10 +25,6 @@ p1{
 
 .tab{
   text-indent:40px;
-}
-
-ul{
-
 }
 
 li{
