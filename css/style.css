@@ -5,7 +5,10 @@ html{
 }
 
 body{
-
+  background-image: url("https://backgrounddownload.com/wp-content/uploads/2018/09/information-technology-background-vector-9.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 h1{
